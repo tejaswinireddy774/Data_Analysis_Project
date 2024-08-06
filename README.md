@@ -3,7 +3,7 @@
 
 1. Python File
 2. Dataset
-3. Power BI dashboard
+
 
 The Zomato Data Analysis project leverages data from Zomato, a leading global restaurant 
 discovery and food delivery platform, to extract insights and drive business decisions. With an 
